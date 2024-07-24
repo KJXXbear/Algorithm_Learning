@@ -16,4 +16,8 @@
 
 # 142.环形链表
 
-**没时间了，明天写**
+**题目分两步走： （1）判断是否有环； （2）找到入环节点**
+
+**环形链表的题一般想到使用双指针思想，快慢指针相遇则说明有环**
+
+![142](https://github.com/KJXXbear/Algorithm_Learning/blob/main/image/142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.png?raw=true)
